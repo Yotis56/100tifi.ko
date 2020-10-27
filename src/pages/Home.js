@@ -1,6 +1,6 @@
 const Home = () => {
   const view = `
-    <<div class="characters">
+    <div class="characters">
     <article class="character-item">
       <a href="#/1/">
         <img src="image" alt="name">
